@@ -63,25 +63,12 @@ Mediciones de voltaje
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea2/blob/main/3EC1.png)
+![](https://github.com/phchalco/Tarea3/blob/main/X1X.png)
 
-![](https://github.com/phchalco/Tarea2/blob/main/3EC2.png)
+![](https://github.com/phchalco/Tarea3/blob/main/X2X.png)
 
-![](https://github.com/phchalco/Tarea2/blob/main/3EC3.png)
+![](https://github.com/phchalco/Tarea3/blob/main/X3X.png)
 
-![](https://github.com/phchalco/Tarea2/blob/main/3EC4.png)
-
-![](https://github.com/phchalco/Tarea2/blob/main/3EC5.png)
-
-![](https://github.com/phchalco/Tarea2/blob/main/3EC6.png)
-
-![](https://github.com/phchalco/Tarea2/blob/main/3EC7.png)
-
-![](https://github.com/phchalco/Tarea2/blob/main/3EC8.png)
-
-![](https://github.com/phchalco/Tarea2/blob/main/3EC9.png)
-
-![](https://github.com/phchalco/Tarea2/blob/main/3EC10.png)
 
 Capítulo 6
 
@@ -129,11 +116,15 @@ Aplicaciones de circuitos en paralelo
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea2/blob/main/4EC1.png)
+![](https://github.com/phchalco/Tarea3/blob/main/Y1Y.png)
 
-![](https://github.com/phchalco/Tarea2/blob/main/4EC2.png)
+![](https://github.com/phchalco/Tarea3/blob/main/Y2Y.png)
 
-![](https://github.com/phchalco/Tarea2/blob/main/4EC3.png)
+![](https://github.com/phchalco/Tarea3/blob/main/Y3Y.png)
+
+![](https://github.com/phchalco/Tarea3/blob/main/Y4Y.png)
+
+![](https://github.com/phchalco/Tarea3/blob/main/Y5Y.png)
 
 4.-Video
 
