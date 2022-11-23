@@ -6,13 +6,13 @@ Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
--Analizar y comprender el funcionamiento de circuitos en serie y parelelo.
+-Analizar y comprender el funcionamiento de circuitos en serie y paralelo.
 
 1.1-Objetivos Específicos:
 
 -Comprender y analizar la relación que existe entre circuitos en serie y paralelo.
 
--Deducir las distintas variantes de formulas de voltaje y corrientes de Kirchhoff.
+-Deducir las distintas variantes de fórmulas de voltaje y corrientes de Kirchhoff.
 
 -Aprender el uso y manipulación de resistencias en serie y paralelo.
 
