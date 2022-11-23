@@ -109,21 +109,23 @@ Resistencia total en paralelo
 
 Aplicación de la ley de Ohm
 
-![](https://github.com/phchalco/Tarea3/blob/main/33.png)
+![](https://github.com/phchalco/Tarea3/blob/main/23.png)
 
 Fuentes de corriente en paralelo
 
-![](https://github.com/phchalco/Tarea3/blob/main/34.png)
+![](https://github.com/phchalco/Tarea3/blob/main/33.png)
 
 Divisores de corriente
 
-![](https://github.com/phchalco/Tarea3/blob/main/35.png)
+![](https://github.com/phchalco/Tarea3/blob/main/34.png)
 
 Potencia en circuitos en paralelo
 
-![](https://github.com/phchalco/Tarea3/blob/main/36.png)
+![](https://github.com/phchalco/Tarea3/blob/main/35.png)
 
 Aplicaciones de circuitos en paralelo
+
+![](https://github.com/phchalco/Tarea3/blob/main/36.png)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
