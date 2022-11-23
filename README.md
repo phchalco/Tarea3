@@ -133,7 +133,7 @@ https://www.youtube.com/watch?v=ara18eYg5PE
 5.-Conclusiones:
 
 -En relación a lo antes expuesto, se puede deducir que la relación que existe entre los circuitos en serie y paralelos abarcan una gran cantidad de definiciones que
-seran muy útilies a la hora de experimentar con estos circuitos.
+serán muy utilies a la hora de experimentar con estos circuitos.
 
 -Finalmente, la aplicación de estas definiciones son de suma importancia para comprender el correcto uso de resistencias, voltajes y corrientes.
 
