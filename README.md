@@ -141,8 +141,23 @@ https://www.youtube.com/watch?v=ara18eYg5PE
 
 5.-Conclusiones:
 
--En base a lo anterior expuesto, se puede determinar que la aplicación de la ley de ohm en circuitos eléctricos es de carácter fundamental a la hora de aprender sobre circuitos eléctricos.
+-En relación a lo antes expuesto, se puede deducir que la relación que existe entre los circuitos en serie y paralelos abarcan una gran cantidad de definiciones que
+seran muy útilies a la hora de experimentar con estos circuitos.
 
--Tras el análisis expuesto, se puede afirmar que la relación que existe entre energía y potencia deriva muchas definiciones y conlleva a un claro conocimiento sobre lo que son las energías y potencia, además de saber dónde aplicarlas correctamente.
+-Finalmente, la aplicación de estas definiciones son de suma importancia para comprender el correcto uso de resistencias, voltajes y corrientes.
 
 6.-Bibliografía:
+
+Circuito en Paralelo - Concepto, fórmulas y ejemplos. (s. f.). Concepto. https://concepto.de/circuito-en-paralelo/
+
+Circuito en Serie - Concepto, elementos y ejemplos. (s. f.). Concepto. https://concepto.de/circuito-en-serie/
+
+Circuitos en Serie y Paralelo. (2022, 16 agosto). MCI Capacitación. https://cursos.mcielectronics.cl/2019/06/18/circuitos-en-serie-y-paralelo/
+
+Latam, M. (2020, 6 julio). Leyes de Kirchhoff. Mecatrónica LATAM. https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
+¿Qué es la ley de Ohm? (2016, 31 octubre). Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
+Fuentes de corriente - Clases para todos 【2022】. (2021, 28 junio). Clases para todos. https://clasesparatodos.org/fuentes-de-corriente/
+
+Circuitos en Serie y Paralelo. (2021, 26 enero). MiElectrónicaFácil.com. https://mielectronicafacil.com/analisis-de-circuitos/circuitos-en-serie-y-en-paralelo/
