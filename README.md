@@ -93,35 +93,35 @@ determinar la resistencia total en paralelo y a localizar resistores abiertos.
 
 Resistores en paralelo
 
-![](https://github.com/phchalco/Tarea2/blob/main/15.png)
+![](https://github.com/phchalco/Tarea3/blob/main/29.png)
 
 Voltaje en un circuito en paralelo
 
-![](https://github.com/phchalco/Tarea2/blob/main/16.png)
+![](https://github.com/phchalco/Tarea3/blob/main/30.png)
 
 Ley de las corrientes de Kirchhoff
 
-![](https://github.com/phchalco/Tarea2/blob/main/17.png)
+![](https://github.com/phchalco/Tarea3/blob/main/31.png)
 
 Resistencia total en paralelo
 
-![](https://github.com/phchalco/Tarea2/blob/main/18.png)
+![](https://github.com/phchalco/Tarea3/blob/main/32.png)
 
 Aplicación de la ley de Ohm
 
-![](https://github.com/phchalco/Tarea2/blob/main/19.png)
+![](https://github.com/phchalco/Tarea3/blob/main/33.png)
 
 Fuentes de corriente en paralelo
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/34.png)
 
 Divisores de corriente
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/35.png)
 
 Potencia en circuitos en paralelo
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/36.png)
 
 Aplicaciones de circuitos en paralelo
 
