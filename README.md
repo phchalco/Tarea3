@@ -27,37 +27,39 @@ Resistores en serie
 En este capítulo, usted verá cómo se utiliza la ley de Ohm en circuitos en serie y aprenderá otra importante ley de circuito, la ley del voltaje de Kirchhoff. Además,
 se presentan varias aplicaciones de circuitos en serie, incluidos los divisores de voltaje.
 
-![](https://github.com/phchalco/Tarea2/blob/main/12.png)
+![](https://github.com/phchalco/Tarea3/blob/main/20.png)
 
 Corriente en un circuito en serie
 
-![](https://github.com/phchalco/Tarea2/blob/main/13.png)
+![](https://github.com/phchalco/Tarea3/blob/main/21.png)
 
 Resistencia total en serie
 
-![](https://github.com/phchalco/Tarea2/blob/main/14.png)
+![](https://github.com/phchalco/Tarea3/blob/main/22.png)
 
 Aplicación de la ley de Ohm
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/23.png)
 
 Fuentes de voltaje en serie
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/24.png)
 
 Ley del voltaje de Kirchhoff
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/25.png)
 
 Divisores de voltaje
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/26.png)
 
 Potencia en circuitos en serie
 
-
+![](https://github.com/phchalco/Tarea3/blob/main/27.png)
 
 Mediciones de voltaje
+
+![](https://github.com/phchalco/Tarea3/blob/main/28.png)
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
