@@ -1,41 +1,63 @@
 Principios de Circuitos Eléctricos
 
-Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 18/11/2022  
+Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 25/11/2022  
 
 Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
--Analizar Y demostrar el perfecto uso de la ley de ohm en los distintos tipos de circuitos electrónicos.
+-Analizar y comprender el funcionamiento de circuitos en serie y parelelo.
 
 1.1-Objetivos Específicos:
 
--Comprender y analizar la relación que existe entre corriente, voltaje y resistencia.
+-Comprender y analizar la relación que existe entre circuitos en serie y paralelo.
 
--Utilizar notación científica en distintas secciones.
+-Deducir las distintas variantes de formulas de voltaje y corrientes de Kirchhoff.
 
--Demostrar el correcto uso de los cálculos de corriente, voltaje y resistencia.
+-Aprender el uso y manipulación de resistencias en serie y paralelo.
 
 -Reconocer las distintas fallas que pueden ocurrir en un circuito eléctrico.
 
 2.-Marco Teórico:
 
-Capítulo 3 Ley de OHM.
-La relación de corriente, voltaje y resistencia.
+Capítulo 5 Circuitos en Serie.
 
-La ley de Ohm se determinó experimentalmente, si el voltaje a través de la resistencia aumenta, entonces La corriente a través de la resistencia también será; De manera similar, si se reduce el voltaje, la corriente hará lo mismo. Por ejemplo, si el voltaje se duplica, la corriente también se duplica. Si el voltaje de nuevo Lados y ese será el flujo.
+Resistores en serie
+
+En este capítulo, usted verá cómo se utiliza la ley de Ohm en circuitos en serie y aprenderá otra importante ley de circuito, la ley del voltaje de Kirchhoff. Además,
+se presentan varias aplicaciones de circuitos en serie, incluidos los divisores de voltaje.
 
 ![](https://github.com/phchalco/Tarea2/blob/main/12.png)
 
-Cálculo de la corriente, voltaje y resistencia.
+Corriente en un circuito en serie
 
 ![](https://github.com/phchalco/Tarea2/blob/main/13.png)
 
-Introducción a la localización de fallas Una aplicación de circuito.
-
-La solución de problemas es la aplicación del razonamiento lógico combinado con una comprensión profunda del funcionamiento de un circuito o sistema para corregir errores. Un enfoque básico para la resolución de problemas implica tres pasos: análisis, planificación y medición.
+Resistencia total en serie
 
 ![](https://github.com/phchalco/Tarea2/blob/main/14.png)
+
+Aplicación de la ley de Ohm
+
+
+
+Fuentes de voltaje en serie
+
+
+
+Ley del voltaje de Kirchhoff
+
+
+
+Divisores de voltaje
+
+
+
+Potencia en circuitos en serie
+
+
+
+Mediciones de voltaje
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -59,31 +81,47 @@ La solución de problemas es la aplicación del razonamiento lógico combinado c
 
 ![](https://github.com/phchalco/Tarea2/blob/main/3EC10.png)
 
-Capítulo 4
+Capítulo 6
 
-Energía y Potencia
+Circuitos en paralelo
 
-Se llama energía eléctrica a la capacidad de las cargas que circulan por un circuito de realizar un trabajo (encender un bombillo, mover un motor, ….).
+En este capítulo, verá cómo se utiliza la ley de Ohm en circuitos en paralelo; y aprenderá la ley de la corriente de Kirchhoff. También se presentan varias
+aplicaciones, tales como el sistema de iluminación automotriz, la instalación eléctrica residencial, y el alambrado eléctrico de amperímetros analógicos. Aprenderá a
+determinar la resistencia total en paralelo y a localizar resistores abiertos.
 
-Se llama potencia eléctrica a la rapidez con la que se realiza un trabajo en un circuito eléctrico.
+Resistores en paralelo
 
 ![](https://github.com/phchalco/Tarea2/blob/main/15.png)
 
-Potencia en un circuito eléctrico
+Voltaje en un circuito en paralelo
 
 ![](https://github.com/phchalco/Tarea2/blob/main/16.png)
 
-Potencia nominal en resistores
+Ley de las corrientes de Kirchhoff
 
 ![](https://github.com/phchalco/Tarea2/blob/main/17.png)
 
-Conversión de energía y caída de voltaje en una resistencia
+Resistencia total en paralelo
 
 ![](https://github.com/phchalco/Tarea2/blob/main/18.png)
 
-Fuentes de potencia
+Aplicación de la ley de Ohm
 
 ![](https://github.com/phchalco/Tarea2/blob/main/19.png)
+
+Fuentes de corriente en paralelo
+
+
+
+Divisores de corriente
+
+
+
+Potencia en circuitos en paralelo
+
+
+
+Aplicaciones de circuitos en paralelo
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
