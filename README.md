@@ -128,7 +128,7 @@ Aplicaciones de circuitos en paralelo
 
 4.-Video
 
-https://www.youtube.com/watch?v=ara18eYg5PE
+https://www.youtube.com/watch?v=I0_IO_3N0pQ
 
 5.-Conclusiones:
 
